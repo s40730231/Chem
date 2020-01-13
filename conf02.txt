@@ -1,5 +1,5 @@
 receptor = hsg1.pdbqt
-ligand = lig.pdbqt
+ligand = lig_A_01.pdbqt
 
 center_x = -0.25
 center_y = 6.417
@@ -8,6 +8,3 @@ center_z = 4.056
 size_x = 72
 size_y = 36
 size_z = 62
-
-cpu = 4
-
