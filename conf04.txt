@@ -1,0 +1,14 @@
+receptor = hsg1.pdbqt
+ligand = lig_B_02.pdbqt
+
+seed = 125815820
+
+center_x = 2.428
+center_y = 0.028
+center_z = -0.88
+
+size_x = 126
+size_y = 104
+size_z = 40
+
+exhaustiveness = 8
