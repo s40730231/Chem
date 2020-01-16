@@ -4,11 +4,11 @@ ligand = lig_A_06.pdbqt
 seed = 125815820
 
 center_x = 2.428
-center_y = 0.028
-center_z = -0.88
+center_y = 8.201
+center_z = -7.49
 
-size_x = 126
-size_y = 104
+size_x = 40
+size_y = 40
 size_z = 40
 
 exhaustiveness = 8
