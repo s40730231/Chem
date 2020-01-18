@@ -1,0 +1,6 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+HETATM    1  C   UNK     0      -5.335  -3.080   0.000  0.00  0.00     0.038 C 
+HETATM    2  C   UNK     0      -6.668  -2.310   0.000  0.00  0.00     0.011 C 
+HETATM    3  S   UNK     0      -8.002  -3.080   0.000  0.00  0.00    -0.088 SA
+HETATM    4  C   UNK     0      -6.668  -0.770   0.000  0.00  0.00     0.033 C 
+HETATM    5  C   UNK     0      -8.002   0.000   0.000  0.00  0.00     0.006 C 
