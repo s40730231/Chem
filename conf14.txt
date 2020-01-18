@@ -1,4 +1,4 @@
-receptor = Thr02.pdbqt
+receptor = thr02.pdbqt
 ligand = lig_A_02.pdbqt
 
 seed = 125815820
