@@ -9,6 +9,6 @@ center_z = 0.0
 
 size_x = 8
 size_y = 8
-size_z = 8
+size_z = 1
 
 exhaustiveness = 8
