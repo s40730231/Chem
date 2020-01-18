@@ -1,0 +1,9 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   UNK     0       5.335   0.000   0.000  0.00  0.00     0.059 C 
+HETATM    2  C   UNK     0       6.668  -0.770   0.000  0.00  0.00     0.096 C 
+HETATM    3  F   UNK     0       8.002   0.000   0.000  0.00  0.00    -0.214 F 
+HETATM    4  C   UNK     0       6.669  -2.310   0.000  0.00  0.00     0.059 C 
+ENDROOT
+TORSDOF 0
